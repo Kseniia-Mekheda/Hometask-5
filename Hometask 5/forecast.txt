@@ -1,0 +1,12 @@
+Monday 27 May 26 5
+Wednesday 12 June 27 10
+Friday 26 June 30 24
+Monday 08 July 32 10
+Tuesday 10 September 22 30
+Monday 03 June 26 20 
+Wednesday 29 May 26 0
+Monday 09 September 19 40 
+Thursday 06 June 26 0
+Saturday 08 June 25 35 
+Tuesday 29 July 31 0 
+Sunday 14 July 29 0 
